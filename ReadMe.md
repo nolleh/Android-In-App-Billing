@@ -7,8 +7,8 @@
 
 ![session](./DevFest_W_Korea_2013_session.jpg)  
 Track Index  
-  
-<img src="DevFest_W_Korea_2013_Present.jpg" width="494" height="329"/>
+
+<img src="DevFest_W_Korea_2013_Present.jpg" width="494" height="329"/>  
 Presentation
 
 2. In App Billing Ver2 Documents translation (Eng -> Kor) by nolleh.
