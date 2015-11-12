@@ -5,8 +5,11 @@
 
 1. conference ppt by nolleh (Kyeong-mi kim), when 2013, Google DevFest W Korea.
 
-[https://github.com/nolleh/Android-In-App-Billing/blob/master/DevFest_W_Korea_2013_Present.jpg]
-[https://github.com/nolleh/Android-In-App-Billing/blob/master/DevFest_W_Korea_2013_session.jpg]
+![session](./DevFest_W_Korea_2013_session.jpg)
+Track Index
+
+![present](./DevFest_W_Korea_2013_Present.jpg)
+Presentation
 
 2. In App Billing Ver2 Documents translation (Eng -> Kor) by nolleh.
 3. In App Billing Ver3 Documents translation (Eng -> Kor) by nolleh. 
