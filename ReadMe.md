@@ -6,9 +6,9 @@
 1. conference ppt by nolleh (Kyeong-mi kim), when 2013, Google DevFest W Korea.
 
 ![session](./DevFest_W_Korea_2013_session.jpg)  
-Track Index
-
-<img src="DevFest_W_Korea_2013_Present.jpg" style="width: 494px; height: 329px"/>
+Track Index  
+  
+<img src="DevFest_W_Korea_2013_Present.jpg" width="494" height="329"/>
 Presentation
 
 2. In App Billing Ver2 Documents translation (Eng -> Kor) by nolleh.
